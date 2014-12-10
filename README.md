@@ -1,7 +1,7 @@
 ## Chest behaviour
 
 This module contains class which acts like a chest. Its drawers can be opened only in right order.
-Original detailed description there [spec.md]
+Original detailed description there [spec.md](spec.md)
 
 To ensure of this model you can look at tests, written in bdd and run them by `npm install && npm test`
 
